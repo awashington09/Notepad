@@ -10,7 +10,7 @@ public class ControlFlow {
 
     public boolean isTrue(boolean myBool){
         // local variables
-        int myHeight = 6
+        int myHeight = 6;
 
 
         return myBool;
@@ -24,7 +24,7 @@ public class ControlFlow {
 
         }
         // this is referencing the variable declared. "talking about it again"
-        return isSunny = true
+        return isSunny = true;
 }
 
 
